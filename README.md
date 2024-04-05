@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
  To become Penetration Tester 🕵️‍♂️  <br></p>
 
-[[![GitHub Ihebski](https://komarev.com/ghpvc/?username=NoobGajen&style=flat&color=blue" alt=umararfeen/>)](https://github.com/NoobGajen) 
+[![GitHub Ihebski](https://komarev.com/ghpvc/?username=NoobGajen&style=flat&color=blue)](https://github.com/NoobGajen) 
 [![GitHub Ihebski](https://img.shields.io/github/followers/NoobGajen?label=follow%20github&style=flat)](https://github.com/NoobGajen)
 <br>
   
