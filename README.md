@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 [![GitHub Ihebski](https://img.shields.io/github/followers/NoobGajen?label=follow%20github&style=flat)](https://github.com/NoobGajen)
 <br>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=NoobGajen&theme=darkhub&row=1&margin-w=15)]
+![trophy](https://github-profile-trophy.vercel.app/?username=NoobGajen&theme=darkhub&row=1&margin-w=15)
 
 <!-- (https://github.com/ryo-ma/github-profile-trophy) -->
 
