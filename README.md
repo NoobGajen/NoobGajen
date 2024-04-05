@@ -22,8 +22,10 @@ Here are some ideas to get you started:
 
  To become Penetration Tester 🕵️‍♂️  <br></p>
 
-<img src="https://komarev.com/ghpvc/?username=NoobGajen&style=flat&color=blue" alt=umararfeen/> [![GitHub Ihebski](https://img.shields.io/github/followers/NoobGajen?label=follow%20github&style=flat)](https://github.com/NoobGajen)
+[<img src="https://komarev.com/ghpvc/?username=NoobGajen&style=flat&color=blue" alt=umararfeen/>](https://github.com/NoobGajen) [![GitHub Ihebski](https://img.shields.io/github/followers/NoobGajen?label=follow%20github&style=flat)](https://github.com/NoobGajen)
 <br>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=NoobGajen&theme=darkhub&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NoobGajen&theme=darkhub&row=1&margin-w=15)]
+
+<!-- (https://github.com/ryo-ma/github-profile-trophy) -->
 
