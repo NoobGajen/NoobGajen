@@ -18,7 +18,15 @@ Here are some ideas to get you started:
 <h3 align="left">Passionate Cyber Security Student from Nepal</h3>
 
 <!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=NoobGajen&theme=react&show_icons=true" width="380"> -->
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=NoobGajen&show_icons=true&theme=react" width="418" title="🕵️‍♂️">&nbsp;
+<style>
+    .github-stats {
+        float: right;
+        width: 418px;
+        pointer-events: none; /* This prevents the image from being clickable */
+    }
+</style>
+<img class="github-stats" src="https://github-readme-stats.vercel.app/api?username=NoobGajen&show_icons=true&theme=react" title="🕵️‍♂️">
+
 <!-- <a href="#" title="🕵️‍♂️">
     <img align='right' src="https://github-readme-stats.vercel.app/api?username=NoobGajen&show_icons=true&theme=react" width="418">
 </a> -->
