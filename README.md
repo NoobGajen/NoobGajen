@@ -28,7 +28,6 @@ Studing at day 🛡 breaking things at night 👿 <br></p>
 
 <!-- <img src="https://komarev.com/ghpvc/?username=NoobGajen&style=flat&color=blue" alt=umararfeen/> [![GitHub Ihebski](https://img.shields.io/github/followers/NoobGajen?label=follow%20github&style=flat)](https://github.com/NoobGajen) -->
 [![Profile views](https://komarev.com/ghpvc/?username=NoobGajen&style=flat&color=blue)](https://github.com/NoobGajen) [![Follow GitHub](https://img.shields.io/github/followers/NoobGajen?label=follow%20github&style=flat)](https://github.com/NoobGajen)
-
 <br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NoobGajen&theme=darkhub&row=1&margin-w=15)](https://github.com/NoobGajen)
