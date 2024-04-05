@@ -23,8 +23,10 @@ Here are some ideas to get you started:
   
 Studing at day 🛡 breaking things at night 👿 <br></p>
 
-[![profile view and follow github](<img src="https://komarev.com/ghpvc/?username=NoobGajen&style=flat&color=blue" alt=umararfeen/>)(https://github.com/NoobGajen) 
-[![GitHub Ihebski](https://img.shields.io/github/followers/NoobGajen?label=follow%20github&style=flat)](https://github.com/NoobGajen)
+<!-- <img src="https://komarev.com/ghpvc/?username=NoobGajen&style=flat&color=blue" alt=umararfeen/> [![GitHub Ihebski](https://img.shields.io/github/followers/NoobGajen?label=follow%20github&style=flat)](https://github.com/NoobGajen) -->
+[![profile view](https://komarev.com/ghpvc/?username=NoobGajen&style=flat&color=blue)](https://github.com/NoobGajen) [![Follow GitHub](https://img.shields.io/github/followers/NoobGajen?label=follow%20github&style=flat)](https://github.com/NoobGajen)
+
+
 <br>
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=NoobGajen&theme=darkhub&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
