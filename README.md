@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/NoobGajen" title="Visit GitHub Profile">
     <img align='right' src="https://github-readme-stats.vercel.app/api?username=NoobGajen&show_icons=true&theme=react" width="418">
 </a>
-
 <h2>About me</h2>
 <p> Passionate Cyber Security Student 
   
