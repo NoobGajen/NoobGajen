@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=NoobGajen&theme=react&show_icons=true" width="380"> -->
 <!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=NoobGajen&show_icons=true&theme=react" width="418"> -->
-<a href="https://github.com/NoobGajen">
+<a href="https://github.com/NoobGajen" title="🕵️‍♂️">
     <img align='right' src="https://github-readme-stats.vercel.app/api?username=NoobGajen&show_icons=true&theme=react" width="418">
 </a>
 <h2>About me</h2>
