@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=FFFFFF&multiline=true&width=435&height=180&lines=ncat+-lvnp+1337;listening+on+%5Bany%5D+1337+...;connect+to+%5BNoobGajen%5D+profile;%24+script+%2Fdev%2Fnull+-c+bash;gajen%40linux%3A~%24+.%2Fexploit;..............................;............PwN3d!............;..............................;..............................;..............................;..............................;..............................;)](#) -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=FFFFFF&multiline=true&width=490&height=210&lines=ncat+-lvnp+1337;Ncat%3A+Listening+on+%5B%3A%3A%5D%3A1337;Ncat%3A+Listening+on+0.0.0.0%3A1337;Ncat%3A+Connection+from+%5BNoobGajen%5D+profile;;%24+script+%2Fdev%2Fnull+-c+bash;gajen%40linux%3A~%24+.%2Fexploit;..............................;............PwN3d!............;..............................;..............................;..............................;..............................;..............................;)](#)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=FFFFFF&multiline=true&width=495&height=220&lines=ncat+-lvnp+1337;Ncat%3A+Listening+on+%5B%3A%3A%5D%3A1337;Ncat%3A+Listening+on+0.0.0.0%3A1337;Ncat%3A+Connection+from+%5BNoobGajen%5D+profile;;%24+script+%2Fdev%2Fnull+-c+bash;gajen%40linux%3A~%24+.%2Fexploit;..............................;............PwN3d!............;..............................;..............................;..............................;..............................;..............................;)](#)
 
 
 
