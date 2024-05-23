@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 <!-- <h3 align="left">Passionate Cyber Security Student from Nepal</h3> -->
 
  <!-- ################## Netcat typing animation ##################### -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=FFFFFF&multiline=true&width=435&height=180&lines=nc+-lvnp+1337;listening+on+%5Bany%5D+1337+...;connect+to+%5BNoobGajen%5D+profile;%24+script+%2Fdev%2Fnull+-c+bash;gajen%40linux%3A~%24+<tspan fill="00FF00">.%2Fexploit</tspan>;..............................;............PwN3d!............;..............................;..............................;..............................;..............................;..............................;)](#)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=FFFFFF&multiline=true&width=435&height=180&lines=nc+-lvnp+1337;listening+on+%5Bany%5D+1337+...;connect+to+%5BNoobGajen%5D+profile;%24+script+%2Fdev%2Fnull+-c+bash;gajen%40linux%3A~%24+.%2Fexploit;..............................;............PwN3d!............;..............................;..............................;..............................;..............................;..............................;)](#)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=FFFFFF&multiline=true&width=435&height=180&lines=nc+-lvnp+1337;listening+on+%5Bany%5D+1337+...;connect+to+%5BNoobGajen%5D+profile;%24+script+%2Fdev%2Fnull+-c+bash;gajen%40linux%3A~%24+.%2Fexploit;..............................;............PwN3d!............;..............................;..............................;..............................;..............................;..............................;)](#) -->
 
 
 
