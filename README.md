@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="left">Hi 👋, I'm Gajendra Mahato</h1>
+<!-- <h1 align="left">Hi 👋, I'm Gajendra Mahato</h1> -->
 <!-- <h3 align="left">Passionate Cyber Security Student from Nepal</h3> -->
 
  <!-- ################## Netcat typing animation ##################### -->
